@@ -1,15 +1,5 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-<div align="center">
-<div align="center">
-
-<img src="./art/banner.png" width="100%"/>
 <div align="center"> <img src="./art/banner.png" width="100%"/> <a href="https://github.com/mikeydebug"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship;Sponsorship+Head+%40+TEDxIIITR+(Navonmesh);Turning+48-hour+hackathons+into+real+apps;Node.js+%7C+React+%7C+TypeScript+%7C+AI" alt="Typing SVG" /> </a> <br/>
-<a href="https://github.com/mikeydebug">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship;Sponsorship+Head+%40+TEDxIIITR+(Navonmesh);Turning+48-hour+hackathons+into+real+apps;Node.js+%7C+React+%7C+TypeScript+%7C+AI" alt="Typing SVG" />
-</a>
-
-<br/>
-
 <a href="mailto:cs24b1031@iiitr.ac.in"><img src="https://img.shields.io/badge/Email-cs24b1031%40iiitr.ac.in-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/mikeydebug"><img src="https://img.shields.io/badge/GitHub-mikeydebug-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
 <img src="https://komarev.com/ghpvc/?username=mikeydebug&color=1F6FEB&style=for-the-badge&label=PROFILE+VIEWS"/>
@@ -58,11 +48,11 @@
 | **[LeadFlow](https://github.com/mikeydebug)** | Real-time Meta Lead Ads integration — captures Meta webhook leads and streams them live to a mobile app | Node.js · Express · TypeScript · Socket.io · React Native (Expo) |
 | **[StudyWire](https://github.com/mikeydebug)** | Built in 48 hrs at the Anakin AI Hackathon — 5 parallel AI agents (Concept, Analogy, PYQ, Quiz, Study Plan) via `Promise.allSettled`, Hinglish support, glassmorphism "Mission Control" UI | React · AI Agents · Groq/LLaMA |
 | **[NGO Awareness Portal](https://github.com/mikeydebug)** | Dark-themed awareness site with 3D effects and parallax scrolling, built for InAmigos Foundation's Project Vikas | React · Three.js · Vercel |
-| **PankhAI** | _add a one-line description_ | — |
-| **Swarm CEO** | _add a one-line description_ | — |
-| **CrowdBuddy** | _add a one-line description_ | — |
-| **HAQMS** | _add a one-line description_ | — |
-| **StayNest** | _add a one-line description_ | — |
+| **PankhAI** | - | — |
+| **Swarm CEO** | - | — |
+| **CrowdBuddy** | - | — |
+| **HAQMS** | - | — |
+| **StayNest** | - | — |
 
 <br clear="left"/>
 
