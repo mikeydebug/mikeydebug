@@ -3,7 +3,7 @@
 <div align="center">
 
 <img src="./art/banner.png" width="100%"/>
-
+<div align="center"> <img src="./art/banner.png" width="100%"/> <a href="https://github.com/mikeydebug"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship;Sponsorship+Head+%40+TEDxIIITR+(Navonmesh);Turning+48-hour+hackathons+into+real+apps;Node.js+%7C+React+%7C+TypeScript+%7C+AI" alt="Typing SVG" /> </a> <br/>
 <a href="https://github.com/mikeydebug">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship;Sponsorship+Head+%40+TEDxIIITR+(Navonmesh);Turning+48-hour+hackathons+into+real+apps;Node.js+%7C+React+%7C+TypeScript+%7C+AI" alt="Typing SVG" />
 </a>
