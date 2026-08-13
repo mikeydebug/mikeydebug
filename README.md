@@ -53,11 +53,11 @@
 | **[LeadFlow](https://github.com/mikeydebug)** | Real-time Meta Lead Ads integration — captures Meta webhook leads and streams them live to a mobile app | Node.js · Express · TypeScript · Socket.io · React Native (Expo) |
 | **[StudyWire](https://github.com/mikeydebug)** | Built in 48 hrs at the Anakin AI Hackathon — 5 parallel AI agents (Concept, Analogy, PYQ, Quiz, Study Plan) running via `Promise.allSettled`, Hinglish support, glassmorphism "Mission Control" UI | React · AI Agents · Groq/LLaMA |
 | **[NGO Awareness Portal](https://github.com/mikeydebug)** | Dark-themed awareness site with 3D effects and parallax scrolling, built for InAmigos Foundation's Project Vikas | React · Three.js · Vercel |
-| **PankhAI** | _add a one-line description_ | — |
-| **Swarm CEO** | _add a one-line description_ | — |
-| **CrowdBuddy** | _add a one-line description_ | — |
-| **HAQMS** | _add a one-line description_ | — |
-| **StayNest** | _add a one-line description_ | — |
+| **PankhAI** | - | — |
+| **Swarm CEO** | - | — |
+| **CrowdBuddy** | - | — |
+| **HAQMS** | - | — |
+| **StayNest** | - | — |
 
 > 💡 Fill in the 5 placeholder rows with a one-liner + repo link each — didn't want to guess details I wasn't sure about.
 
