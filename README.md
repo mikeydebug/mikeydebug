@@ -1,8 +1,8 @@
-
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Hey,%20I'm%20Mayank%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20@%20IIIT%20Raichur&descAlignY=55&descSize=18" width="100%"/>
+<img src="./art/banner.png" width="100%"/>
 
 <a href="https://github.com/mikeydebug">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship;Sponsorship+Head+%40+TEDxIIITR+(Navonmesh);Turning+48-hour+hackathons+into+real+apps;Node.js+%7C+React+%7C+TypeScript+%7C+AI" alt="Typing SVG" />
@@ -16,9 +16,11 @@
 
 </div>
 
-<br/>
+<img src="./art/divider.png" width="100%"/>
 
 ## 🧭 About Me
+
+<img src="./art/badge.png" width="70" align="left"/>
 
 - 🎓 B.Tech Computer Science @ **IIIT Raichur**
 - 🎤 **Sponsorship Team Head — TEDxIIITR "Navonmesh"** (leading a team of 8, event on Sep 26, 2026)
@@ -26,9 +28,10 @@
 - 💻 Full-stack developer — I like taking projects from a rough idea to something deployed and demo-able
 - 🏆 Active hackathon builder — recent build: 5 parallel AI agents shipped in 48 hours
 - 🌱 Currently deep in Operating Systems, Compiler Design, and DBMS while applying to full-stack internships
-- ⚡ Fun fact: I build a lot of my tools with Hinglish-first UX, because that's how India actually talks
 
-<br/>
+<br clear="left"/>
+
+<img src="./art/divider.png" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -44,26 +47,28 @@
 
 </div>
 
-<br/>
+<img src="./art/divider.png" width="100%"/>
 
 ## 🚀 Featured Projects
+
+<img src="./art/badge.png" width="70" align="left"/>
 
 | Project | Description | Stack |
 |---|---|---|
 | **[LeadFlow](https://github.com/mikeydebug)** | Real-time Meta Lead Ads integration — captures Meta webhook leads and streams them live to a mobile app | Node.js · Express · TypeScript · Socket.io · React Native (Expo) |
-| **[StudyWire](https://github.com/mikeydebug)** | Built in 48 hrs at the Anakin AI Hackathon — 5 parallel AI agents (Concept, Analogy, PYQ, Quiz, Study Plan) running via `Promise.allSettled`, Hinglish support, glassmorphism "Mission Control" UI | React · AI Agents · Groq/LLaMA |
+| **[StudyWire](https://github.com/mikeydebug)** | Built in 48 hrs at the Anakin AI Hackathon — 5 parallel AI agents (Concept, Analogy, PYQ, Quiz, Study Plan) via `Promise.allSettled`, Hinglish support, glassmorphism "Mission Control" UI | React · AI Agents · Groq/LLaMA |
 | **[NGO Awareness Portal](https://github.com/mikeydebug)** | Dark-themed awareness site with 3D effects and parallax scrolling, built for InAmigos Foundation's Project Vikas | React · Three.js · Vercel |
-| **PankhAI** | - | — |
-| **Swarm CEO** | - | — |
-| **CrowdBuddy** | - | — |
-| **HAQMS** | - | — |
-| **StayNest** | - | — |
+| **PankhAI** | _add a one-line description_ | — |
+| **Swarm CEO** | _add a one-line description_ | — |
+| **CrowdBuddy** | _add a one-line description_ | — |
+| **HAQMS** | _add a one-line description_ | — |
+| **StayNest** | _add a one-line description_ | — |
 
-> 💡 Fill in the 5 placeholder rows with a one-liner + repo link each — didn't want to guess details I wasn't sure about.
+<br clear="left"/>
 
-<br/>
+<img src="./art/divider.png" width="100%"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -76,11 +81,15 @@
 
 <br/><br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mikeydebug&theme=react-dark&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=E63946&area=true&hide_border=true" width="90%"/>
+
+<br/><br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=mikeydebug&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7"/>
 
 </div>
 
-<br/>
+<img src="./art/divider.png" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -94,15 +103,19 @@
 
 </div>
 
-<br/>
+<img src="./art/divider.png" width="100%"/>
 
 ## 🤝 Connect
 
 <div align="center">
+
+<img src="./art/badge.png" width="60"/>
+
+<br/>
 
 <a href="mailto:cs24b1031@iiitr.ac.in"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/mikeydebug"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="./art/footer.png" width="100%"/>
