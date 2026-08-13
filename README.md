@@ -1,27 +1,106 @@
-# 💫 About Me:
-Hi 👋 I'm Mayank Soni  <br><br>🚀 Computer Science undergraduate at IIIT Raichur with strong foundations in<br>Data Structures & Algorithms and hands-on experience as a MEAN Stack Developer.<br><br>💻 I build scalable and responsive web applications using:<br>- MongoDB, Express.js, React , Node.js (MERN Stack)<br>- JavaScript, HTML, CSS, Tailwind CSS<br>- RESTful APIs and modern frontend practices<br><br>🛠️ My work includes building dynamic dashboards, task management systems,<br>portfolio websites, and browser-based tools using Web APIs.<br><br>👨‍💼 Alongside technical expertise, I bring strong leadership and communication<br>skills as PR Head of E-Cell and Video Team Lead at IIIT Raichur, where I’ve led<br>cross-functional teams and delivered high-impact digital content.<br><br><br>📫 Connect with me:<br>- GitHub: https://github.com/mikeybebug<br>- LinkedIn: https://www.linkedin.com/in/mayank-soni-2580a9337/ <br>- Website:https://live-portfolio-beta.vercel.app/#
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Hey,%20I'm%20Mayank%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20@%20IIIT%20Raichur&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayanksoni_327) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-soni-2580a9337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cs24b1031@iiitr.ac.in) [![Website]([https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cs24b1031@iiitr.ac.in](https://live-portfolio-beta.vercel.app/#))
+<a href="https://github.com/mikeydebug">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship;Sponsorship+Head+%40+TEDxIIITR+(Navonmesh);Turning+48-hour+hackathons+into+real+apps;Node.js+%7C+React+%7C+TypeScript+%7C+AI" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mikeydebug&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mikeydebug&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikeydebug&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mikeydebug&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<a href="mailto:cs24b1031@iiitr.ac.in"><img src="https://img.shields.io/badge/Email-cs24b1031%40iiitr.ac.in-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/mikeydebug"><img src="https://img.shields.io/badge/GitHub-mikeydebug-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
+<img src="https://komarev.com/ghpvc/?username=mikeydebug&color=1F6FEB&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mikeydebug&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=mikeydebug&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧭 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 B.Tech Computer Science @ **IIIT Raichur**
+- 🎤 **Sponsorship Team Head — TEDxIIITR "Navonmesh"** (leading a team of 8, event on Sep 26, 2026)
+- 🎥 Core member, **PR/Video Team**, IIIT Raichur — carried the heaviest workload on video coverage for 2025–26
+- 💻 Full-stack developer — I like taking projects from a rough idea to something deployed and demo-able
+- 🏆 Active hackathon builder — recent build: 5 parallel AI agents shipped in 48 hours
+- 🌱 Currently deep in Operating Systems, Compiler Design, and DBMS while applying to full-stack internships
+- ⚡ Fun fact: I build a lot of my tools with Hinglish-first UX, because that's how India actually talks
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,mongodb,postgresql,prisma,tailwind,git,github,vscode,figma,postman,vercel,docker,linux&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Groq-1F6FEB?style=for-the-badge&logo=lightning&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socketdotio&logoColor=58A6FF"/>
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[LeadFlow](https://github.com/mikeydebug)** | Real-time Meta Lead Ads integration — captures Meta webhook leads and streams them live to a mobile app | Node.js · Express · TypeScript · Socket.io · React Native (Expo) |
+| **[StudyWire](https://github.com/mikeydebug)** | Built in 48 hrs at the Anakin AI Hackathon — 5 parallel AI agents (Concept, Analogy, PYQ, Quiz, Study Plan) running via `Promise.allSettled`, Hinglish support, glassmorphism "Mission Control" UI | React · AI Agents · Groq/LLaMA |
+| **[NGO Awareness Portal](https://github.com/mikeydebug)** | Dark-themed awareness site with 3D effects and parallax scrolling, built for InAmigos Foundation's Project Vikas | React · Three.js · Vercel |
+| **PankhAI** | _add a one-line description_ | — |
+| **Swarm CEO** | _add a one-line description_ | — |
+| **CrowdBuddy** | _add a one-line description_ | — |
+| **HAQMS** | _add a one-line description_ | — |
+| **StayNest** | _add a one-line description_ | — |
+
+> 💡 Fill in the 5 placeholder rows with a one-liner + repo link each — didn't want to guess details I wasn't sure about.
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mikeydebug&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeydebug&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="35%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=mikeydebug&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="65%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mikeydebug&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mikeydebug/mikeydebug/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mikeydebug/mikeydebug/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mikeydebug/mikeydebug/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="mailto:cs24b1031@iiitr.ac.in"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/mikeydebug"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" width="100%"/>
