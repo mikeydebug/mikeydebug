@@ -19,7 +19,6 @@
 ## 🧭 About Me
 
 <img src="./art/badge.png" width="70" align="left"/>
-
 - 🎓 B.Tech Computer Science @ **IIIT Raichur**
 - 🎤 **Sponsorship Team Head — TEDxIIITR "Navonmesh"** (leading a team of 8, event on Sep 26, 2026)
 - 🎥 Core member, **PR/Video Team**, IIIT Raichur — carried the heaviest workload on video coverage for 2025–26
