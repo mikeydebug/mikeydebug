@@ -1,7 +1,10 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-<div align="center"> <img src="./art/banner.png" width="100%"/> <a href="https://github.com/mikeydebug"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship;Sponsorship+Head+%40+TEDxIIITR+(Navonmesh);Turning+48-hour+hackathons+into+real+apps;Node.js+%7C+React+%7C+TypeScript+%7C+AI" alt="Typing SVG" /> </a> <br/>
+<div align="center"> <img src="./art/banner.png" width="100%"/> <a href="https://github.com/mikeydebug">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Hey,%20I'm%20Mayank%20 &fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20@%20IIIT%20Raichur&descAlignY=55&descSize=18" width="100%"/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Hey,%20I'm%20Mayank%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20@%20IIIT%20Raichur&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+ship;Sponsorship+Head+%40+TEDxIIITR+(Navonmesh);Turning+48-hour+hackathons+into+real+apps;Node.js+%7C+React+%7C+TypeScript+%7C+AI" alt="Typing SVG" /> </a> <br/>
+  
+ 
 
   
 <a href="mailto:cs24b1031@iiitr.ac.in"><img src="https://img.shields.io/badge/Email-cs24b1031%40iiitr.ac.in-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
