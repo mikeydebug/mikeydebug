@@ -17,8 +17,8 @@
 <img src="./art/divider.png" width="100%"/>
 
 ## 🧭 About Me
-
 <img src="./art/badge.png" width="70" align="left"/>
+<br> 
 
 - 🎓 B.Tech Computer Science @ **IIIT Raichur**
   
