@@ -101,9 +101,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikeydebug&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=58A6FF&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mikeydebug&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-</p>
+
 
 
 <h3 align="center">🏆 Trophies</h3>
