@@ -1,5 +1,5 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-<div align="center"> <img src="./art/banner.png" width="100%"/> <a href="https://github.com/mikeydebug">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Hey,%20I'm%20Mayank%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20B.Tech%20CSE%20@%20IIIT%20Raichur&descAlignY=55&descSize=18" width="100%"/>
    
@@ -19,11 +19,17 @@
 ## 🧭 About Me
 
 <img src="./art/badge.png" width="70" align="left"/>
+
 - 🎓 B.Tech Computer Science @ **IIIT Raichur**
+  
 - 🎤 **Sponsorship Team Head — TEDxIIITR "Navonmesh"** (leading a team of 8, event on Sep 26, 2026)
+  
 - 🎥 Core member, **PR/Video Team**, IIIT Raichur — carried the heaviest workload on video coverage for 2025–26
+  
 - 💻 Full-stack developer — I like taking projects from a rough idea to something deployed and demo-able
+  
 - 🏆 Active hackathon builder — recent build: 5 parallel AI agents shipped in 48 hours
+  
 - 🌱 Currently deep in Operating Systems, Compiler Design, and DBMS while applying to full-stack internships
 
 <br clear="left"/>
