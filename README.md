@@ -114,11 +114,12 @@
 
 <img src="./art/badge.png" width="60"/>
 
+
 <br/>
 
 <a href="mailto:cs24b1031@iiitr.ac.in"><img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/mikeydebug"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
 
 </div>
-
-<img src="./art/footer.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="./art/banner.png" width="100%"/>
